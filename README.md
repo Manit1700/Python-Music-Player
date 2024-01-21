@@ -1,5 +1,20 @@
-# Python-Music-Player
+# Music Player
 
+This is a simple music player application built using Python and Tkinter.
+
+## Features
+- Add and play MP3 songs
+- Delete songs from the playlist
+- Save and load the playlist
+- Control playback (play, pause, stop, next, previous)
+- Set the volume
+- Display album cover art
+
+## Installation
+1. Clone the repository
+2. Install the required dependencies:
+   ```bash
+   pip install -r requirements.txt
 # Screenshots
 ![System default color](https://github.com/Manit1700/Python-Music-Player/assets/133211146/c5fb14b7-5425-45aa-9bcf-602db71bcd94)
 ![Auto dark mode](https://github.com/Manit1700/Python-Music-Player/assets/133211146/1f2f3395-9ef6-4292-a7ae-fc147feaea69)
