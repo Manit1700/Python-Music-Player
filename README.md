@@ -1,6 +1,6 @@
 # Python-Music-Player
 
-#Output
+# Output
 ![System default color](https://github.com/Manit1700/Python-Music-Player/assets/133211146/c5fb14b7-5425-45aa-9bcf-602db71bcd94)
 ![Auto dark mode](https://github.com/Manit1700/Python-Music-Player/assets/133211146/1f2f3395-9ef6-4292-a7ae-fc147feaea69)
 ![Add song menu bar](https://github.com/Manit1700/Python-Music-Player/assets/133211146/618c1a5c-d6e0-4fd3-949d-85f06ffde235)
