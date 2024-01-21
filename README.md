@@ -15,6 +15,9 @@ This is a simple music player application built using Python and Tkinter.
 2. Install the required dependencies:
    ```bash
    pip install -r requirements.txt
+
+**Important: Please replace the paths in the code with the paths to your music and image files. For example, replace `/Users/manit/Documents2/musicplayer-main/music/` with the path to your music folder and `/Users/manit/Documents2/musicplayer-main/img/` with the path to your image folder.**
+
 # Screenshots
 ## System Default Apperance
 ![System default color](https://github.com/Manit1700/Python-Music-Player/assets/133211146/c5fb14b7-5425-45aa-9bcf-602db71bcd94)
