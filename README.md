@@ -4,7 +4,9 @@
 ![System default color](https://github.com/Manit1700/Python-Music-Player/assets/133211146/c5fb14b7-5425-45aa-9bcf-602db71bcd94)
 ![Auto dark mode](https://github.com/Manit1700/Python-Music-Player/assets/133211146/1f2f3395-9ef6-4292-a7ae-fc147feaea69)
 The app has the feature to set the appearance to the system color. This is done using the customtkinter.set_appearance_mode('system') function. This feature allows the app to blend in with the system's color scheme, giving it a more native look and feel.
+
 ![Add song menu bar](https://github.com/Manit1700/Python-Music-Player/assets/133211146/618c1a5c-d6e0-4fd3-949d-85f06ffde235)
+
 ![Remove song menu bar](https://github.com/Manit1700/Python-Music-Player/assets/133211146/0a824401-e681-487a-842f-b496008a3fbd)
 ![Loading song](https://github.com/Manit1700/Python-Music-Player/assets/133211146/0f8ea2be-643d-4063-9323-ce0770527e20)
 ![Playing the song](https://github.com/Manit1700/Python-Music-Player/assets/133211146/c2bac500-913c-44e8-b241-0f05710c3900)
