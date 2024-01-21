@@ -22,6 +22,9 @@ This is a simple music player application built using Python and Tkinter.
 1. The song name in the music folder and cover image in the img folder needs to be exactly same
 2. The path needs to have `/` insted of `\` in them it does not matter which OS you use. By default the Windows OS use `\` so change to `/`**
 
+## Contact
+If you have any questions or suggestions about this project, please feel free to contact us at [manitrachh1700@gmail.com].
+
 # Screenshots
 ## System Default Apperance
 ![System default color](https://github.com/Manit1700/Python-Music-Player/assets/133211146/c5fb14b7-5425-45aa-9bcf-602db71bcd94)
@@ -62,8 +65,3 @@ Once the playlist is saved and the app is closed, when the app is loaded again t
 ## Delete and Unsave song
 ![Pressing Shift+Esc](https://github.com/Manit1700/Python-Music-Player/assets/133211146/99a50569-b47e-489c-a801-637dff91f8c5)
 The song can be deleted and unsaved at same time using the Shift+ESC shortcut. It is only possible if the save switch is ON.
-
-## Contact
-
-If you have any questions or suggestions about this project, please feel free to contact us at [manitrachh1700@gmail.com].
-
