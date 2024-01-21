@@ -18,8 +18,8 @@ This is a simple music player application built using Python and Tkinter.
 
 **Important: Please replace the paths in the code with the paths to your music and image files. For example, replace `/Users/manit/Documents2/musicplayer-main/music/` with the path to your music folder like `D:/music-player/music` and `/Users/manit/Documents2/musicplayer-main/img/` with the path to your image folder like `D:/musicplayer-main/img`. The project has the image and song folder just copy the path and paste that in the place**
 
-**Important Note: 
-1. The song name in the music folder and cover image in the img folder needs to be exactly same
+## Important Note: 
+**1. The song name in the music folder and cover image in the img folder needs to be exactly same
 2. The path needs to have `/` insted of `\` in them it does not matter which OS you use. By default the Windows OS use `\` so change to `/`**
 
 ## Contact
